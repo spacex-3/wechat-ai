@@ -1,0 +1,6 @@
+{
+  "proxy_server": "https://api.***.ai/mj",
+  "proxy_api_secret": "sk-***",
+  "mj_admin_password": "12345678",
+  "daily_limit": 10
+}
